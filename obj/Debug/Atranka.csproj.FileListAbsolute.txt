@@ -1,0 +1,11 @@
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\bin\Debug\Atranka.exe.config
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\bin\Debug\Atranka.exe
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\bin\Debug\Atranka.pdb
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.exe
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.pdb
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vartotojas\source\repos\Atranka\Atranka\obj\Debug\Atranka.csproj.CopyComplete
