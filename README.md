@@ -9,3 +9,10 @@
 4. Navigate into Atranka project folder and go to bin/debug
 5. Here you should see result.json file
 6. You can edit areas.json and locations.json as you wish
+
+## Running on replit
+1. Open this link: https://replit.com/@deividasgrinius/Atranka?v=1
+2. Press show code
+3. Press green run botton
+4. results.json file will be formed
+5. Check it for results
